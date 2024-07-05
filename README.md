@@ -6,6 +6,6 @@
 Link del diseño original [acá](https://ar.pinterest.com/pin/450852612712001140/)
 
 Mi maquetación con Bootstrap
-![Captura de pantalla del hero 1](/assets/img/hero_1.png)
+![Captura de pantalla del hero 1](/hero_1/assets/img/hero_1.png)
 
 
