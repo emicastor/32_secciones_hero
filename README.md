@@ -14,4 +14,10 @@ Link del diseño original [acá](https://ar.pinterest.com/pin/450852612712055513
 Mi maquetación con Bootstrap
 ![Captura de pantalla del hero 2](/hero_2/assets/img/hero_2.png)
 
+#### Hero 3
+Link del diseño original [acá](https://designtemplateplace.com/product/company-profile-hero-header-345433#gallery-1)
+
+Mi maquetación con Bootstrap
+![Captura de pantalla del hero 3](/hero_2/assets/img/hero_3.png)
+
 
