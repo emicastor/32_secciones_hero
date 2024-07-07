@@ -1,0 +1,35 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.bg-green-light {
+    background-color: #F2FDF0;
+}
+
+@media (min-width: 992px) {
+    .pt-row {
+        padding-top: 150px;
+    }
+    .vh {
+        height: 75vh;
+    }
+    .bg-hero {
+        background-image: url(../img/bg-hero.webp);
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+}
