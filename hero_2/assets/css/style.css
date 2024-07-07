@@ -1,0 +1,72 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-wrap: balance;
+}
+
+.bg-hero {
+    background-image: url(../img/bg-hero.svg);
+    background-position: right; /*left top*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-img {
+    background: no-repeat center;
+    background-color: #6c757d;
+    background-attachment: scroll;
+    position: relative;
+    background-size: cover;
+}
+.bg-img-2 {
+    background: no-repeat top;
+    background-color: #6c757d;
+    background-attachment: scroll;
+    position: relative;
+    background-size: cover;
+}
+
+.bg-img .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.bg-img .post-heading {
+    height: 45vh; /*65*/
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-bottom: 1.5rem;
+}
+
+.bg-img .post-heading-2 {
+    height: 21.6vh; /*31.5*/
+    color: white;
+    padding-top: 1.5rem;
+    text-align: end;
+}
+
+.bg-img .post-heading-3 {
+    height: 21.6vh; /*31.5*/
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-bottom: 1.5rem;
+}
+
+@media (min-width: 992px) {
+    .bg-hero {
+        background-position: right top;
+    }
+}
