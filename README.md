@@ -24,6 +24,6 @@ Mi maquetación con Bootstrap
 Link del diseño original [acá](https://designtemplateplace.com/product/findker-hire-hero-header-image-436469#gallery-1)
 
 Mi maquetación con Bootstrap
-![Captura de pantalla del hero 4](/hero_3/assets/img/hero_4.png)
+![Captura de pantalla del hero 4](/hero_4/assets/img/hero_4.png)
 
 
