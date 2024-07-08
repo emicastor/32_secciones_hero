@@ -1,0 +1,23 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.bg-hero {
+    background-image: url(../img/bg-hero.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
