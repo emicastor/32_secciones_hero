@@ -26,4 +26,10 @@ Link del diseño original [acá](https://designtemplateplace.com/product/findker
 Mi maquetación con Bootstrap
 ![Captura de pantalla del hero 4](/hero_4/assets/img/hero_4.png)
 
+#### Hero 5
+Link del diseño original [acá](https://designtemplateplace.com/product/gaming-hero-section-472248#gallery)
+
+Mi maquetación con Bootstrap
+![Captura de pantalla del hero 5](/hero_5/assets/img/hero_5.png)
+
 
