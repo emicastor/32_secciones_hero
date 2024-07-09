@@ -1,0 +1,41 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.bg-hero {
+    background-image: url(../img/bg-hero.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.text-green {
+    color: #ABEA7D;
+}
+
+.bg-nav {
+    background-color: #20142b;
+}
+
+.main {
+    padding-top: 80px;
+}
+
+@media (min-width: 992px) {
+    .main {
+        padding-top: 40px;
+    }
+}
