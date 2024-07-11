@@ -1,7 +1,8 @@
-# 32_secciones_hero
+# 32 secciones hero #DeFotoACodigo
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 32 secciones hero maquetadas con Bootstrap a partir de una foto como inspiración. Diseños sacados de diferentes sitios web (dribbble, Behance, Pinterest, etc). 
+
 A saber: 
 - Código css de bootstrap purgado con la herramienta purgeCSS. [link](https://purgecss.com/)
 - El diseño mobile de los hero son pensados por mí.
