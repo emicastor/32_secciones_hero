@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hero 6</title>
+    <!-- FAVICON -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="./assets/img/favicon/site.webmanifest">
+
+    <!-- GOOGLE FONT -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./assets/css/bs5-hero6.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <!-- JS -->
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+        crossorigin="anonymous"></script>
+    <script defer src="./assets/js/main.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top bg-body">
+            <div class="container-fluid px-4 px-lg-5">
+                <a href="/" class="navbar-brand fw-medium">
+                    <img src="./assets/img/logo.png" alt="Logo" width="70">
+                </a>
+                <button id="menu" class="navbar-toggler border-0 focus-ring focus-ring-light" type="button"
+                    data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span id="hambur" class="navbar-toggler-icon d-block"></span>
+                    <svg id="close" xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor"
+                        class="bi bi-x-lg d-none" viewBox="0 0 16 16">
+                        <path
+                            d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z" />
+                    </svg>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 gap-lg-3 gap-xl-5">
+                        <div class="fs-5 d-flex gap-3 me-3 align-items-center justify-content-end d-lg-none">
+                            <a href="#" class="text-decoration-none text-reset">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                    class="bi bi-search" viewBox="0 0 16 16">
+                                    <path
+                                        d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                                </svg>
+                            </a>
+                            <a href="#" class="text-decoration-none text-reset position-relative">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                    class="bi bi-bell" viewBox="0 0 16 16">
+                                    <path
+                                        d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2M8 1.918l-.797.161A4 4 0 0 0 4 6c0 .628-.134 2.197-.459 3.742-.16.767-.376 1.566-.663 2.258h10.244c-.287-.692-.502-1.49-.663-2.258C12.134 8.197 12 6.628 12 6a4 4 0 0 0-3.203-3.92zM14.22 12c.223.447.481.801.78 1H1c.299-.199.557-.553.78-1C2.68 10.2 3 6.88 3 6c0-2.42 1.72-4.44 4.005-4.901a1 1 0 1 1 1.99 0A5 5 0 0 1 13 6c0 .88.32 4.2 1.22 6" />
+                                </svg>
+                                <span
+                                    class="position-absolute top-0 start-100 translate-middle p-1 bg-success border border-light rounded-circle">
+                                    <span class="visually-hidden">New alerts</span>
+                                </span>
+                            </a>
+                            <a href="#" class="text-decoration-none">
+                                <img src="./assets/img/avatar.webp" alt="..."
+                                    class="img-fluid rounded-circle" width="30">
+                            </a>
+                        </div>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Productos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Shop</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Comunidad</a>
+                        </li>
+                    </ul>
+                    <div class="fs-5 d-flex me-4 align-items-center text-body-secondary d-none d-lg-block">
+                        <a href="#" class="text-decoration-none text-reset me-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                class="bi bi-search" viewBox="0 0 16 16">
+                                <path
+                                    d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                            </svg>
+                        </a>
+                        <a href="#" class="text-decoration-none text-reset position-relative me-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
+                                class="bi bi-bell" viewBox="0 0 16 16">
+                                <path
+                                    d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2M8 1.918l-.797.161A4 4 0 0 0 4 6c0 .628-.134 2.197-.459 3.742-.16.767-.376 1.566-.663 2.258h10.244c-.287-.692-.502-1.49-.663-2.258C12.134 8.197 12 6.628 12 6a4 4 0 0 0-3.203-3.92zM14.22 12c.223.447.481.801.78 1H1c.299-.199.557-.553.78-1C2.68 10.2 3 6.88 3 6c0-2.42 1.72-4.44 4.005-4.901a1 1 0 1 1 1.99 0A5 5 0 0 1 13 6c0 .88.32 4.2 1.22 6" />
+                            </svg>
+                            <span
+                                class="position-absolute top-0 start-100 translate-middle p-1 bg-success border border-light rounded-circle">
+                                <span class="visually-hidden">New alerts</span>
+                            </span>
+                        </a>
+                        <a href="#" class="text-decoration-none">
+                            <img src="./assets/img/avatar.webp" alt="..."
+                                class="img-fluid rounded-circle" width="30">
+                        </a>
+                    </div>
+                    <div class="d-grid d-lg-flex justify-content-lg-center mb-3 mb-lg-0">
+                        <a href="#"
+                            class="btn bg-transparent btn-sm fw-semibold border border-3 border-light-subtle rounded-pill px-4 py-2">Cerrar
+                            sesión
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main">
+        <div class="container-fluid px-4 px-lg-5">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-md-10 col-lg-6 col-xl-5 mt-5">
+                    <h1 class="fw-normal mb-4">Eleva tu estilo con nuestros <span class="highlight fw-semibold">básicos</span> de moda</h1>
+                    <p class="text-secondary mb-4">Descubra su estilo único y exprese su verdadero yo con nuestra
+                        colección seleccionada de artículos esenciales de moda.</p>
+                    <div class="d-grid d-sm-flex gap-3 align-items-center mb-5">
+                        <a href="#" class="btn btn-dark rounded-pill fw-medium px-4 py-2 mb-lg-5">Comprar ahora</a>
+                        <a href="#"
+                            class="btn bg-transparent fw-medium border border-3 border-light-subtle rounded-pill py-2 px-4 d-flex align-items-center justify-content-center gap-2 mb-lg-5">
+                            <span>Ver reel</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
+                                class="bi bi-play" viewBox="0 0 16 16">
+                                <path
+                                    d="M10.804 8 5 4.633v6.734zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C4.713 12.69 4 12.345 4 11.692V4.308c0-.653.713-.998 1.233-.696z" />
+                            </svg>
+                        </a>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item py-3">
+                            <a href="#" class="text-decoration-none text-reset d-flex justify-content-between">
+                                <span class="fw-semibold">Desde clásicos atemporales hasta las últimas
+                                    tendencias</span>
+                                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-chevron-right text-body-secondary" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd"
+                                            d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                    </svg></span>
+                            </a>
+                        </li>
+                        <li class="list-group-item py-3">
+                            <a href="#" class="text-decoration-none text-reset d-flex justify-content-between">
+                                <span class="fw-semibold">Trajes elegantes para ropa informal de fin de
+                                    semana</span>
+                                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-chevron-right text-body-secondary" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd"
+                                            d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                    </svg></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 col-xl-5 my-5 my-lg-0 text-center">
+                    <img src="./assets/img/bg-hero.webp" alt="..." class="img-fluid mb-5 mb-lg-0">
+                </div>
+                <div class="col-md-6 col-xl-2 mt-5">
+                    <div class="card mb-5 bg-card border-0 rounded-0">
+                        <div class="card-body ps-lg-5">
+                            <h6 class="card-title text-body-secondary text-uppercase small">Compras convenientes
+                            </h6>
+                            <hr class="w-25 border-3">
+                            <p class="card-text fw-semibold">
+                                Compra desde la comodidad de tu casa
+                            </p>
+                        </div>
+                    </div>
+                    <div class="py-2"></div>
+                    <div class="card mb-3 border-0">
+                        <div class="card-body">
+                            <h5 class="card-title fw-semibold">Envío 9 veces más rápido</h5>
+                            <p class="card-text text-body-secondary small">
+                                <small>Compra desde la comodidad de tu hogar y recibe tus pedidos
+                                    puntualmente</small>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="card mb-5 border-0">
+                        <div class="card-body">
+                            <h5 class="card-title fw-semibold">Sin complicaciones</h5>
+                            <p class="card-text text-body-secondary small">
+                                <small>Devuelve o cambia cualquier artículo que no cumpla con tus
+                                    expectativas.</small>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="py-2"></div>
+                    <div class="bg-light text-center rounded-pill p-2">
+                        <img src="./assets/img/avatares.webp" alt="..." class="w-50 me-2">
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                                class="bi bi-arrow-right text-secondary" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd"
+                                    d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid px-4 px-lg-5 bg-light py-5 mt-5 mt-xl-0">
+            <div class="row">
+                <div class="col-12 col-lg-2">
+                    <p class="fw-medium mb-0">Conéctate con nuestras marcas favoritas</p>
+                </div>
+                <div class="col-lg-10 mt-4 mt-lg-0">
+                    <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 g-4 g-md-3">
+                        <div class="col text-lg-center">
+                            <img src="./assets/img/logoipsum-263 (1).svg" alt="..." class="img-fluid">
+                        </div>
+                        <div class="col text-lg-center">
+                            <img src="./assets/img/logoipsum-216 (1).svg" alt="..." class="img-fluid">
+                        </div>
+                        <div class="col text-lg-center">
+                            <img src="./assets/img/logoipsum-217 (1).svg" alt="..." class="img-fluid">
+                        </div>
+                        <div class="col text-lg-center">
+                            <img src="./assets/img/logoipsum-218.svg" alt="..." class="img-fluid">
+                        </div>
+                        <div class="col text-lg-center">
+                            <img src="./assets/img/logoipsum-261.svg" alt="..." class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

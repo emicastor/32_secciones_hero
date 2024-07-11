@@ -1,0 +1,42 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.bg-card {
+    background-image: url(../img/bg-card.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main {
+    padding-top: 80px;
+}
+
+.highlight {
+    margin: 0em -0.2em;
+    padding: 0em 0.1em;
+    border-radius: 0em 0em;
+    background-color: #FCD9F5;
+    color: currentColor;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+@media (min-width: 992px) {
+    .main {
+        padding-top: 40px;
+    }
+}
