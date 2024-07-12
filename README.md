@@ -44,3 +44,9 @@ Link del diseño original [acá](https://designtemplateplace.com/product/modern-
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 6](/hero_6/assets/img/hero_6.png)
 
+#### Hero 7
+Link del diseño original [acá](https://ar.pinterest.com/pin/397864948339057574/)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 7](/hero_7/assets/img/hero_7.png)
+
