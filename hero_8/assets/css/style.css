@@ -1,0 +1,30 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.bg-primary-light {
+    background-color: #EEF1FC;
+}
+
+.main {
+    padding-top: 80px;
+}
+
+@media (min-width: 992px) {
+    .main {
+        padding-top: 40px;
+    }
+}
