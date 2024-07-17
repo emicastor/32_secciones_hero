@@ -1,0 +1,30 @@
+.serif {
+    font-family: 'Playfair Display', serif;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+.bg {
+    background-image: url(../img/bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.bg-orange {
+    color: #F4C502;
+}
