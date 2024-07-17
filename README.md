@@ -56,3 +56,8 @@ Link del diseño original [acá](https://ar.pinterest.com/pin/710513278714521170
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 8](/hero_8/assets/img/hero_8.png)
 
+#### Hero 9
+Link del diseño original [acá](https://ar.pinterest.com/pin/420664421462232417/)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 9](/hero_9/assets/img/hero_9.png)
