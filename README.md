@@ -61,3 +61,9 @@ Link del diseño original [acá](https://ar.pinterest.com/pin/420664421462232417
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 9](/hero_9/assets/img/hero_9.png)
+
+#### Hero 10
+Link del diseño original [acá](https://designtemplateplace.com/product/educlub-professional-e-learning-platform-hero-487386#gallery)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 10](/hero_10/assets/img/hero_10.png)
