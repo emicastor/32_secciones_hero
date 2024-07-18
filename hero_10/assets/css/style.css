@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.serif {
+    font-family: 'Merriweather', serif;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.bg-back {
+    background-image: url(../img/bg.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.icon-circle {
+    width: 2.9rem;
+    height: 2.9rem;
+}
