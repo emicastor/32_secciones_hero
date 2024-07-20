@@ -67,3 +67,9 @@ Link del diseño original [acá](https://designtemplateplace.com/product/educlub
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 10](/hero_10/assets/img/hero_10.png)
+
+#### Hero 11
+Link del diseño original [acá](https://ar.pinterest.com/pin/545920786111744510/)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 11](/hero_11/assets/img/hero_11.png)
