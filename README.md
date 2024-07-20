@@ -73,3 +73,9 @@ Link del diseño original [acá](https://ar.pinterest.com/pin/545920786111744510
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 11](/hero_11/assets/img/hero_11.png)
+
+#### Hero 12
+Link del diseño original [acá](https://ar.pinterest.com/pin/31736372366589561/)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 12](/hero_12/assets/img/hero_12.png)
