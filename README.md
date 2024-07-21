@@ -6,7 +6,7 @@
 A saber: 
 - Código css de bootstrap purgado con la herramienta [purgeCSS](https://purgecss.com/)
 - El diseño mobile de los hero son pensados por mí.
-- Las imágenes son creadas en Canva por mí.
+- Las imágenes son creadas en Canva por mí y luego convertidas a WebP para reducir peso y ganar velocidad.
 
 #### Hero 1
 Link del diseño original [acá](https://ar.pinterest.com/pin/450852612712001140/)
@@ -79,3 +79,9 @@ Link del diseño original [acá](https://ar.pinterest.com/pin/31736372366589561/
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 12](/hero_12/assets/img/hero_12.png)
+
+#### Hero 13
+Link del diseño original [acá](https://ar.pinterest.com/pin/704180091761245953/)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 13](/hero_13/assets/img/hero_13.png)
