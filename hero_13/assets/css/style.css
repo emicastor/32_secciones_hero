@@ -1,0 +1,45 @@
+body {
+    font-family: "Space Grotesk", sans-serif;
+    background-color: #ECEEF2;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.feature-icon {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 1.9rem;
+}
+
+.avatares {
+    width: 120px;
+}
+
+.bg-green {
+    background-color: #34BB8B;
+}
+
+.text-green {
+    color: #34BB8B;
+}
+
+@media (min-width: 992px) {
+    .avatares {
+        width: 150px;
+    }
+
+    .img-hero {
+        border-top: none!important;
+    }
+}
