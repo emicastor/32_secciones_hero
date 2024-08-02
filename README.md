@@ -85,3 +85,9 @@ Link del diseño original [acá](https://ar.pinterest.com/pin/704180091761245953
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 13](/hero_13/assets/img/hero_13.png)
+
+#### Hero 14
+Link del diseño original [acá](https://dribbble.com/shots/17808357-Wforce-Web-Design)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 14](/hero_14/assets/img/hero_14.png)
