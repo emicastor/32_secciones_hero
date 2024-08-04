@@ -91,3 +91,9 @@ Link del diseño original [acá](https://dribbble.com/shots/17808357-Wforce-Web-
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 14](/hero_14/assets/img/hero_14.png)
+
+#### Hero 15
+Link del diseño original [acá](https://dribbble.com/shots/17829097-Podcast-Platform-Website)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 15](/hero_15/assets/img/hero_15.png)
