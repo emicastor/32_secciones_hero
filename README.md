@@ -97,3 +97,9 @@ Link del diseño original [acá](https://dribbble.com/shots/17829097-Podcast-Pla
 
 Mi maquetación con Bootstrap ⬇️
 ![Captura de pantalla del hero 15](/hero_15/assets/img/hero_15.png)
+
+#### Hero 16
+Link del diseño original [acá](https://www.behance.net/gallery/171149055/UXUI-design-concept-for-a-yoga-and-meditation-studio)
+
+Mi maquetación con Bootstrap ⬇️
+![Captura de pantalla del hero 516](/hero_16/assets/img/hero_16.png)
