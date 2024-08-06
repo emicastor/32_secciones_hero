@@ -1,0 +1,57 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+.font-syne {
+    font-family: "Syne", sans-serif;
+}
+
+.bg-violet {
+    background-color: #bfa0e1;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.bg-hero {
+    background-image: url(../img/bg-hero.png);
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.bg-img {
+    background: no-repeat;
+    background-color: #6c757d;
+    background-attachment: scroll;
+    position: relative;
+    background-size: cover;
+    /* width: 90%; */
+}
+
+.bg-img .post-heading {
+    height: 37vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.icon-square {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 2rem;
+}
