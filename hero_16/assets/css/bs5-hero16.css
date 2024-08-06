@@ -1295,6 +1295,9 @@ button:not(:disabled),
   .mt-lg-3 {
     margin-top: 1rem !important;
   }
+  .mb-lg-0 {
+    margin-bottom: 0 !important;
+  }
   .mb-lg-2 {
     margin-bottom: 0.5rem !important;
   }
